@@ -35,6 +35,8 @@ To set up the Quiz App Vue project, follow these steps:
 
 5. The application should now be running locally on `http://localhost:8080`. Open your web browser and navigate to this URL to access the Quiz App Vue.
 
+## Gh-pages deploy
+
 ## Available Commands
 
 The following commands are available in the Quiz App Vue project:
